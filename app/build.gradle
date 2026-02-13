@@ -7,6 +7,7 @@ plugins {
 }
 
 android {
+    namespace "com.sinngjpeg.simulator"
     compileSdk 32
 
     defaultConfig {
