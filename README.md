@@ -94,4 +94,6 @@ app/
 
 ## 📸 Demonstração do aplicativo
 
-![Tela principal do app](images/screen.png)
+<p align="center">
+  <img src="images/screen.png" alt="Tela principal do app" width="280"/>
+</p>
