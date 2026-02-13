@@ -87,7 +87,7 @@ app/
 │       └── AndroidManifest.xml
 ````
 
-📌 Observações
+## 📌 Observações
 
 - Projeto desenvolvido para fins educacionais
 - As versões de SDK refletem o período do bootcamp
