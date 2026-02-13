@@ -92,7 +92,6 @@ app/
 - Projeto desenvolvido para fins educacionais
 - As versões de SDK refletem o período do bootcamp
 
-## 🎥 Demonstração do aplicativo
+## 📸 Demonstração do aplicativo
 
-<video src="videos/screen.webm" controls width="300"></video>
-
+![Tela principal do app](images/screen.png)
